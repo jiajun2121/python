@@ -1,9 +1,9 @@
 *.pkl
 .idea/
-
+*.mp3
 *.txt
 *.bat
-
+/study/ocr/pic/*.jpg
 /study/old/
 
 /study/1024/*.jpg
@@ -17,10 +17,12 @@
 /study/avtb/*.jpg
 /study/avtb/*.gif
 
-/study/MIUI_Pic/Picture/
+/study/wallpaper/Picture/
+/*/picture/
 /temp.py
 
-
+/IPProxyPool/
+/.vscode/
 
 
 
@@ -137,3 +139,4 @@ ENV/
 
 
 
+*.m4a
