@@ -24,5 +24,5 @@ def text_reply(msg):
     if msg['isAt']:
         itchat.send(u'@%s\u2005I received: %s' % (msg['ActualNickName'], msg['Content']), msg['FromUserName'])
 
-itchat.auto_login(True)
+itchat.auto_login(enableCmdQR=True)
 itchat.run()
