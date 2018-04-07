@@ -3,6 +3,9 @@
 *.mp3
 *.txt
 *.bat
+Thumbs.db
+
+
 /study/ocr/pic/*.jpg
 /study/old/
 
